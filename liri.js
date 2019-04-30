@@ -6,3 +6,4 @@ require("dotenv").config();
 
   // You should then be able to access your keys information like so
   var spotify = new Spotify(keys.spotify);
+  console.log({spotify})
