@@ -1,24 +1,40 @@
 // 7. At the top of the `liri.js` file, add code to read and set any environment variables with the dotenv package:
 require("dotenv").config()
 // 8. Add the code required to import the `keys.js` file and store it in a variable.
-var keys = require("./keys")
-var axios = require('axios')
-var Spotify = require('node-spotify-api')
+let keys = require("./keys")
+// npm spotify
+let Spotify = require('node-spotify-api')
+// npm axios
+let axios = require('axios')
+// standard require
 const fs = require('fs')
-var text = process.argv[2]
+
 // You should then be able to access your keys information like so
-console.log('#####liri.js#######')
-console.log(spotify)
+// console.log('#####liri.js#######')
+// console.log(keys)
+// slice full name out of process, join take array and converts to a string
+var title = process.argv.slice(3).join(" ")
 
 // 9. Make it so liri.js can take in one of the following commands:
+var action = process.argv[2]
+//    * `spotify-this-song`
+if (action === 'spotify-this-song') {
+  spotifyThis(title)
+} else {}
+//    * `movie-this`
+if (action === `movie-this`) {
+  movieThis(title)
+}
+//    * `do-what-it-says` 
+
+// Pseudo-code for do-what-it-says 
+// use fs.read to read random.txt,
+// .txt will be in string format, 
+//  split string by using an array, then grab action and title 
+// call function
+// concert this is similar to movie this
 
 //    * `concert-this`
-
-//    * `spotify-this-song`
-
-//    * `movie-this`
-
-//    * `do-what-it-says`
 
 //   ### What Each Command Should Do
 
@@ -31,46 +47,42 @@ console.log(spotify)
 //      * Venue location
 
 //      * Date of the Event (use moment to format this as "MM/DD/YYYY")
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // 2. 
-function spotify() {
+function spotifyThis(track) {
   var spotify = new Spotify(keys.spotify);
   // Easiest way to find artist, album, or track
-  spotify
-    .search({
-      type: 'track',
-      query: 'The Sign',
-    })
-    .then(function (response) {
-      console.log(response);
-      // the picked data that will print in the console
-      for (let data of response.tracks.items) {
-        let songData = [
-          //      * Artist(s)
-          `Artist : ${data.artists[0].name}`,
-          //      * The song's name
-          `Track : ${data.name}`,
-          //      * A preview link of the song from Spotify
-          `URL : ${data.external_urls.Spotify}`,
-          //      * The album that the song is from
-          `Album : ${data.album.name}`,
-          // add 2 retruns just like the class activity week11-day3 #14.
-        ].join('\n\n')
-        // display data in console
-        console.log(songData)
-      }
-    })
-    .catch(function (err) {
-      console.log(err);
-    });
-};
+  spotify.search({ type: 'track', query: track || "The Sign Ace of Base" }, function (err, response) {
+    if (err) {
+      console.log('//////////ERROR!!!/////////////')
+      return console.log('Error occurred: ' + err);
+    }
+    console.log('//////////NO ERROR!!///////////////')
+
+    // use terminal response to understand the path. 
+    // console.log(response.tracks.items[0]);
+    // loop to get data from path
+    for (let data of response.tracks.items) {
+      let songData = [
+        //      * Artist(s)
+        `Artist : ${data.artists[0].name}`,
+        //      * The song's name
+        `Track : ${data.name}`,
+        //      * A preview link of the song from Spotify
+        // `URL : ${data.preview_url}`,
+        `URL : ${data.external_urls.spotify}`,
+        //      * The album that the song is from
+        `Album : ${data.album.name}`,
+        // add 2 retruns just like the class activity week11-day3 #14.
+      ].join('\n\n')
+      // display data in console
+      console.log(songData)
+    }
+  });
+}
 // `node liri.js spotify-this-song '<song name here>'`
 
 //    * This will show the following information about the song in your terminal/bash window
-
-
-
-
 
 //    * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
@@ -86,14 +98,27 @@ function spotify() {
 
 //    * Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the [node-spotify-api package](https://www.npmjs.com/package/node-spotify-api).
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 // 3. `node liri.js movie-this '<movie name here>'`
 
 //    * This will output the following information to your terminal/bash window:
-
+function movieThis (show) {
+axios.get('http://www.omdbapi.com/?t='+show+'&plot=short&apikey=trilogy')
+  .then(function (response) {
+    console.log('////////////////AXIOS////////////')
+    //        * Title of the movie.
+    console.log(`Movie: ${response.data.Title}`)
+    //        * IMDB Rating of the movie.
+    console.log(`Rating is: ${response.data.imdbRating}`)
+  })
+  // log error
+  .catch(function (error) {
+    console.log(error);
+  });
+}
 //      ```
-//        * Title of the movie.
 //        * Year the movie came out.
-//        * IMDB Rating of the movie.
 //        * Rotten Tomatoes Rating of the movie.
 //        * Country where the movie was produced.
 //        * Language of the movie.
