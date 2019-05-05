@@ -33,13 +33,13 @@ console.log(spotify)
 //      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 // 2. 
-function spotify(song) {
+function spotify() {
   var spotify = new Spotify(keys.spotify);
   // Easiest way to find artist, album, or track
   spotify
     .search({
       type: 'track',
-      query: song || 'The Sign',
+      query: 'The Sign',
     })
     .then(function (response) {
       console.log(response);
