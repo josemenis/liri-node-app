@@ -37,24 +37,43 @@ switch (action) {
   //    * `do-what-it-says` 
   case ('do-what-it-says'):
     // run function
-    doThis()
+    doThis();
+    break;
+  //    * `concert-this`
+  case ('concert-this'):
+    if (title) {
+      concertThis();
+    } else {
+      concertThis();
+    }
     break;
 }
-//    * `concert-this`
 
 //   ### What Each Command Should Do
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // 1. `node liri.js concert-this <artist/band name here>`
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+function concertThis(artist) {
+  axios.get('https://rest.bandsintown.com/artists/lecrae/events?app_id=codingbootcamp&date=upcoming')
+    .then(function (response) {
+      console.log('////////////////AXIOS NO ERROR////////////')
+      console.log(response.data)
+      // * Name of the venue
+      // console.log(`Name : ${response.data.item.venue.name}`)
+      // * Venue location (city, country)
+      // console.log(`Location : ${response.data.item.venue.city}, ${item.venue.country}`)
+      // * Date of the Event (use moment to format this as "MM/DD/YYYY")
+      // console.log(`Date : ${moment(response.data.item.datetime).format("MM-DD-YYYY")}`)
+    })
+    // log error
+    .catch(function (error) {
+      console.log('//////////ERROR!!!/////////////')
+      console.log(error);
+    });
+}
 
 //    * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
-
-//      * Name of the venue
-
-//      * Venue location
-
-//      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // 2. 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -167,6 +186,7 @@ function doThis() {
     // We will then re-display the content as an array for later use.
     // console.log(dataArr);
     spotifyThis(dataArr[1]);
+    // movieThis(dataArr[1]);
   });
 }
 // Pseudo-code for do-what-it-says
