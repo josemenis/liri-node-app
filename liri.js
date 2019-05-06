@@ -34,8 +34,11 @@ switch (action) {
       movieThis("Mr. Nobody");
     }
     break;
+    //    * `do-what-it-says` 
+    case ('do-what-it-says'):
+    doThis()
+    break;
 }
-//    * `do-what-it-says` 
 
 // Pseudo-code for do-what-it-says 
 // use fs.read to read random.txt,
@@ -155,6 +158,9 @@ function movieThis(show) {
 // 4. `node liri.js do-what-it-says`
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+function doThis () {
+  
+} 
 //    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
 //      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
