@@ -1,5 +1,16 @@
 # liri-node-app
 
+Note: 
+Function movieThis () works well.
+Function spotifyThis () works well.
+Function doThis() works but also calls function spotifyThis() as if a title was not input.
+
+
+
+
+
+
+
 ## Submission Guide
 
 Create and use a standard GitHub repository. As this is a CLI App, it cannot be deployed to GitHub pages or Heroku. This time you'll need to include screenshots, a GIF, and/or a video showing us that you have the app working with no bugs. You can include these screenshots/GIFs or a link to a video in a `README.md` file.

@@ -23,7 +23,7 @@ switch (action) {
     if (title) {
       spotifyThis(title);
     } else {
-      spotifyThis("I want it that way");
+      spotifyThis("The Sign Ace of Base");
     }
     break;
   //   movieThis(title)
@@ -34,12 +34,12 @@ switch (action) {
       movieThis("Mr. Nobody");
     }
     break;
-    //    * `do-what-it-says` 
-    case ('do-what-it-says'):
+  //    * `do-what-it-says` 
+  case ('do-what-it-says'):
     // run function
     doThis()
     break;
-    }
+}
 //    * `concert-this`
 
 //   ### What Each Command Should Do
@@ -151,25 +151,25 @@ function movieThis(show) {
 // 4. `node liri.js do-what-it-says`
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-function doThis () {
+function doThis() {
   // This block of code will read from the "random.txt" file.
-// It's important to include the "utf8" parameter or the code will provide stream data (garbage)
-// The code will store the contents of the reading inside the variable "data"
-fs.readFile("./random.txt", "utf8", function(error, data) {
-  // If the code experiences any errors it will log the error to the console.
-  if (error) {
-    return console.log(error);
-  }
-  // We will then print the contents of data
-  console.log(data);
-  // Then split it by commas (to make it more readable)
-  var dataArr = data.split(",");
-  // We will then re-display the content as an array for later use.
-  // console.log(dataArr);
-  spotifyThis(dataArr[1]);
-});
+  // It's important to include the "utf8" parameter or the code will provide stream data (garbage)
+  // The code will store the contents of the reading inside the variable "data"
+  fs.readFile("./random.txt", "utf8", function (error, data) {
+    // If the code experiences any errors it will log the error to the console.
+    if (error) {
+      return console.log(error);
+    }
+    // We will then print the contents of data
+    console.log(data);
+    // Then split it by commas (to make it more readable)
+    var dataArr = data.split(",");
+    // We will then re-display the content as an array for later use.
+    // console.log(dataArr);
+    spotifyThis(dataArr[1]);
+  });
 }
-// Pseudo-code for do-what-it-says 
+// Pseudo-code for do-what-it-says
 // use fs.read to read random.txt,
 // .txt will be in string format, 
 //  split string by using an array, then grab action and title 
