@@ -59,7 +59,7 @@ function concertThis(artist) {
     .then(function (response) {
       console.log('////////////////AXIOS NO ERROR////////////')
       /*Console logging, console.log(response.data.venue.name) won't work because
-the API is returning a ‘list’ of “Offers”.
+the API is returning a ‘list’ of “Offers”. It's using a paradigm called REST
 Each Offer is made up of a list of ticket vendors, the venue, the date, the line up which is a list of artists, and some id’s and a url.
 Whenever your API is returning a list that means there are multiple options and that means the data is sent back in an array.
 These instructions `render the following information about each event to the terminal` are telling you that you have to loop through the array of Offers and display the venue name, city, region and country and the offer datetime. 
