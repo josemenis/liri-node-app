@@ -8,6 +8,8 @@ let Spotify = require('node-spotify-api')
 let axios = require('axios')
 // standard require
 const fs = require('fs')
+// npm moment
+let moment = require('moment');
 
 // You should then be able to access your keys information like so
 // console.log('#####liri.js#######')
@@ -42,9 +44,7 @@ switch (action) {
   //    * `concert-this`
   case ('concert-this'):
     if (title) {
-      concertThis();
-    } else {
-      concertThis();
+      concertThis(title);
     }
     break;
 }
@@ -55,16 +55,28 @@ switch (action) {
 // 1. `node liri.js concert-this <artist/band name here>`
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 function concertThis(artist) {
-  axios.get('https://rest.bandsintown.com/artists/lecrae/events?app_id=codingbootcamp&date=upcoming')
+  axios.get('https://rest.bandsintown.com/artists/' + artist + '/events?app_id=codingbootcamp&date=upcoming')
     .then(function (response) {
       console.log('////////////////AXIOS NO ERROR////////////')
-      console.log(response.data)
-      // * Name of the venue
-      // console.log(`Name : ${response.data.item.venue.name}`)
-      // * Venue location (city, country)
-      // console.log(`Location : ${response.data.item.venue.city}, ${item.venue.country}`)
-      // * Date of the Event (use moment to format this as "MM/DD/YYYY")
-      // console.log(`Date : ${moment(response.data.item.datetime).format("MM-DD-YYYY")}`)
+      /*Console logging, console.log(response.data.venue.name) won't work because
+the API is returning a ‘list’ of “Offers”.
+Each Offer is made up of a list of ticket vendors, the venue, the date, the line up which is a list of artists, and some id’s and a url.
+Whenever your API is returning a list that means there are multiple options and that means the data is sent back in an array.
+These instructions `render the following information about each event to the terminal` are telling you that you have to loop through the array of Offers and display the venue name, city, region and country and the offer datetime. 
+Response.data is an array so you need to use bracket notation. */
+      for (let i of response.data) {
+        // * Name of the venue
+        let theVenue = [
+          `Name : ${i.venue.name}`,
+          // * Venue location (city, country)
+          `Location : ${i.venue.city}, ${i.venue.country}`,
+          // * Date of the Event (use moment to format this as "MM/DD/YYYY")
+          // Per documentation <moment().format();>
+          `Date : ${moment(i.datetime).format("MM-DD-YYYY")}`
+        ];
+        // log data
+        console.log(theVenue);
+      }
     })
     // log error
     .catch(function (error) {
