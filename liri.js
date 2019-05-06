@@ -24,7 +24,7 @@ switch (action) {
   case ('spotify-this-song'):
     if (title) {
       spotifyThis(title);
-    } else {
+    } else if (!title) {
       spotifyThis("The Sign Ace of Base");
     }
     break;
@@ -87,7 +87,7 @@ Response.data is an array so you need to use bracket notation. */
 
 //    * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// 2. 
+ // 2. `node liri.js spotify-this-song '<song name here>'`
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 function spotifyThis(track) {
   var spotify = new Spotify(keys.spotify);
@@ -119,7 +119,6 @@ function spotifyThis(track) {
     }
   });
 }
-// `node liri.js spotify-this-song '<song name here>'`
 
 //    * This will show the following information about the song in your terminal/bash window
 

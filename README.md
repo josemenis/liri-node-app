@@ -3,7 +3,8 @@
 Note: 
 Function movieThis () works well.
 Function spotifyThis () works well.
-Function doThis() works but also calls function spotifyThis() as if a title was not input.
+Function doThis() works well.
+Function concerThis() works well.
 
 
 
