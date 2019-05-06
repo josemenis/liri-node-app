@@ -14,16 +14,26 @@ const fs = require('fs')
 // console.log(keys)
 // slice full name out of process, join take array and converts to a string
 var title = process.argv.slice(3).join(" ")
+var action = process.argv[2]
 
 // 9. Make it so liri.js can take in one of the following commands:
-var action = process.argv[2]
-//    * `spotify-this-song`
-if (action === 'spotify-this-song') {
-  spotifyThis(title)
-} else {}
-//    * `movie-this`
-if (action === `movie-this`) {
-  movieThis(title)
+switch (action) {
+  //    * `spotify-this-song`
+  case ('spotify-this-song'):
+    if (title) {
+      spotifyThis(title);
+    } else {
+      spotifyThis("I want it that way");
+    }
+    break;
+  //   movieThis(title)
+  case ('movie-this'):
+    if (title) {
+      movieThis(title);
+    } else {
+      movieThis("Mr. Nobody");
+    }
+    break;
 }
 //    * `do-what-it-says` 
 
@@ -38,7 +48,9 @@ if (action === `movie-this`) {
 
 //   ### What Each Command Should Do
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // 1. `node liri.js concert-this <artist/band name here>`
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //    * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
 
@@ -47,8 +59,9 @@ if (action === `movie-this`) {
 //      * Venue location
 
 //      * Date of the Event (use moment to format this as "MM/DD/YYYY")
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // 2. 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 function spotifyThis(track) {
   var spotify = new Spotify(keys.spotify);
   // Easiest way to find artist, album, or track
@@ -57,8 +70,7 @@ function spotifyThis(track) {
       console.log('//////////ERROR!!!/////////////')
       return console.log('Error occurred: ' + err);
     }
-    console.log('//////////NO ERROR!!///////////////')
-
+    // console.log('//////////NO ERROR!!///////////////')
     // use terminal response to understand the path. 
     // console.log(response.tracks.items[0]);
     // loop to get data from path
@@ -99,33 +111,38 @@ function spotifyThis(track) {
 //    * Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the [node-spotify-api package](https://www.npmjs.com/package/node-spotify-api).
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 // 3. `node liri.js movie-this '<movie name here>'`
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //    * This will output the following information to your terminal/bash window:
-function movieThis (show) {
-axios.get('http://www.omdbapi.com/?t='+show+'&plot=short&apikey=trilogy')
-  .then(function (response) {
-    console.log('////////////////AXIOS////////////')
-    //        * Title of the movie.
-    console.log(`Movie: ${response.data.Title}`)
-    //        * IMDB Rating of the movie.
-    console.log(`Rating is: ${response.data.imdbRating}`)
-  })
-  // log error
-  .catch(function (error) {
-    console.log(error);
-  });
+function movieThis(show) {
+  // when called, show will be replaced with var = title.
+  axios.get('http://www.omdbapi.com/?t=' + show + '&plot=short&apikey=trilogy')
+    .then(function (response) {
+      // console.log('////////////////AXIOS NO ERROR////////////')
+      // console.log(response)
+      //        * Title of the movie.
+      console.log(`Movie: ${response.data.Title}`)
+      //        * IMDB Rating of the movie.
+      console.log(`IMDB Rating is: ${response.data.imdbRating}`)
+      //        * Year the movie came out.
+      console.log(`Year Released : ${response.data.Released}`)
+      //        * Rotten Tomatoes Rating of the movie.
+      console.log(`Rotten Tomatoes Rating : ${response.data.Ratings[1].Value}`)
+      //        * Country where the movie was produced.
+      console.log(`Country : ${response.data.Country}`)
+      //        * Language of the movie.
+      console.log(`Language : ${response.data.Language}`)
+      //        * Plot of the movie.
+      console.log(`Plot : ${response.data.Plot}`)
+      //        * Actors in the movie.
+      console.log(`Actors in movie : ${response.data.Actors}`)
+    })
+    // log error
+    .catch(function (error) {
+      console.log('//////////ERROR!!!/////////////')
+      console.log(error);
+    });
 }
-//      ```
-//        * Year the movie came out.
-//        * Rotten Tomatoes Rating of the movie.
-//        * Country where the movie was produced.
-//        * Language of the movie.
-//        * Plot of the movie.
-//        * Actors in the movie.
-//      ```
-
 //    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
 //      * If you haven't watched "Mr. Nobody," then you should: <http://www.imdb.com/title/tt0485947/>
@@ -134,7 +151,9 @@ axios.get('http://www.omdbapi.com/?t='+show+'&plot=short&apikey=trilogy')
 
 //    * You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // 4. `node liri.js do-what-it-says`
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
@@ -142,8 +161,10 @@ axios.get('http://www.omdbapi.com/?t='+show+'&plot=short&apikey=trilogy')
 
 //      * Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
-// ### BONUS
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// ### BONUS
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // * In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
 
 // * Make sure you append each command you run to the `log.txt` file.
