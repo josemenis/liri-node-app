@@ -2,16 +2,16 @@
 
 
 1. Function movieThis ()
-    !['movie-this'](images\Liri_bot_movieThis.JPG)
+    !['movie-this'](images/Liri_bot_movieThis.JPG)
 
 2. Function spotifyThis ()
-    !['spotify-this-song'](images\Liri_bot_spotifyThis.JPG)
+    !['spotify-this-song'](images/Liri_bot_spotifyThis.JPG)
 
 3. Function doThis()
-    !['do-what-it-says'](images\Liri_bot_doThis.JPG)
+    !['do-what-it-says'](images/Liri_bot_doThis.JPG)
 
 4. Function concerThis()
-    !['concert-this'](images\Liri_bot_concertThis.PNG)
+    !['concert-this'](images/Liri_bot_concertThis.PNG)
 
 
 <!-- ![GitHub Logo](/images/logo.png) -->
