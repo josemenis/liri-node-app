@@ -76,6 +76,17 @@ Response.data is an array so you need to use bracket notation. */
         ];
         // log data
         console.log(theVenue);
+
+        /* append to log.txt
+        works in the terminal but doesn't add to log.txt */ 
+        fs.appendFile('./log.txt', theVenue, function (err) {
+          // If an error was experienced we will log it.
+          if (err) {
+            console.log(err)
+          } else { // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+            console.log('Content Added!')
+          }
+        })
       }
     })
     // log error
@@ -116,6 +127,17 @@ function spotifyThis(track) {
       ].join('\n\n')
       // display data in console
       console.log(songData)
+
+       /* append to log.txt
+        works in the terminal but doesn't add to log.txt */ 
+      fs.appendFile('./log.txt', songData, function (err) {
+        // If an error was experienced we will log it.
+        if (err) {
+          console.log(err)
+        } else { // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+          console.log('Content Added!')
+        }
+      })
     }
   });
 }

@@ -13,6 +13,8 @@
 4. Function concerThis()
     !['concert-this'](images/Liri_bot_concertThis.PNG)
 
+5. Appending text to Log.txt only works for the spotifyThis() function.
+
 
 <!-- ![GitHub Logo](/images/logo.png) -->
 <!-- Format: ![Alt Text](url) -->

@@ -1,1 +1,817 @@
-undefinedundefined
+undefinedundefinedName : Church For The Nations,Location : Phoenix, United States,Date : 06-13-2019Name : Hollywood Palladium,Location : Los Angeles, United States,Date : 06-14-2019Name : Viking Pavilion at the Peter W. Stott Center,Location : Portland, United States,Date : 06-16-2019Name : Redemption Church - Bay Area,Location : San Jose, United States,Date : 06-15-2019Name : Church For The Nations,Location : Phoenix, United States,Date : 06-13-2019Name : Hollywood Palladium,Location : Los Angeles, United States,Date : 06-14-2019Name : Redemption Church - Bay Area,Location : San Jose, United States,Date : 06-15-2019Name : Viking Pavilion at the Peter W. Stott Center,Location : Portland, United States,Date : 06-16-2019Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : All That She Wants
+
+URL : https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Happy Nation
+
+URL : https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Wheel of Fortune
+
+URL : https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+
+Album : Greatest HitsArtist : Ace of Base
+
+Track : Living in Danger
+
+URL : https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Dancer in a Daydream
+
+URL : https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Don't Turn Around
+
+URL : https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Young and Proud
+
+URL : https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+
+Album : Happy Nation (U.S. Version) [Remastered]Artist : Ace of Base
+
+Track : Voulez-Vous danser
+
+URL : https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Waiting for Magic - Total Remix 7" Version
+
+URL : https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : All That She Wants - Banghra Version
+
+URL : https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : My Mind - Mindless Mix
+
+URL : https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Mr Ace - Demo 1991 Bonus Track
+
+URL : https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - Long Version
+
+URL : https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - Ultimix
+
+URL : https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - The Remix
+
+URL : https://open.spotify.com/track/1FqcC4PddhouGXkd7wc40l
+
+Album : Classic RemixesArtist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : All That She Wants
+
+URL : https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+
+Album : Greatest HitsArtist : Ace of Base
+
+Track : Don't Turn Around
+
+URL : https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Living in Danger
+
+URL : https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Wheel of Fortune
+
+URL : https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Happy Nation
+
+URL : https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Dancer in a Daydream
+
+URL : https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Young and Proud
+
+URL : https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Waiting for Magic - Total Remix 7" Version
+
+URL : https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+
+Album : Happy Nation (U.S. Version) [Remastered]Artist : Ace of Base
+
+Track : Voulez-Vous danser
+
+URL : https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : My Mind - Mindless Mix
+
+URL : https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : All That She Wants - Banghra Version
+
+URL : https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Mr Ace - Demo 1991 Bonus Track
+
+URL : https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - Long Version
+
+URL : https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - Ultimix
+
+URL : https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - The Remix
+
+URL : https://open.spotify.com/track/1FqcC4PddhouGXkd7wc40l
+
+Album : Classic RemixesArtist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : All That She Wants
+
+URL : https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Don't Turn Around
+
+URL : https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+
+Album : Greatest HitsArtist : Ace of Base
+
+Track : Happy Nation
+
+URL : https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Wheel of Fortune
+
+URL : https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Living in Danger
+
+URL : https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Dancer in a Daydream
+
+URL : https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Young and Proud
+
+URL : https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Waiting for Magic - Total Remix 7" Version
+
+URL : https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Voulez-Vous danser
+
+URL : https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : My Mind - Mindless Mix
+
+URL : https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : All That She Wants - Banghra Version
+
+URL : https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+
+Album : Happy Nation (U.S. Version) [Remastered]Artist : Ace of Base
+
+Track : Mr Ace - Demo 1991 Bonus Track
+
+URL : https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - Long Version
+
+URL : https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - Ultimix
+
+URL : https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - The Remix
+
+URL : https://open.spotify.com/track/1FqcC4PddhouGXkd7wc40l
+
+Album : Classic RemixesName : Church For The Nations,Location : Phoenix, United States,Date : 06-13-2019Name : Hollywood Palladium,Location : Los Angeles, United States,Date : 06-14-2019Name : Viking Pavilion at the Peter W. Stott Center,Location : Portland, United States,Date : 06-16-2019Name : Redemption Church - Bay Area,Location : San Jose, United States,Date : 06-15-2019Name : Church For The Nations,Location : Phoenix, United States,Date : 06-13-2019Name : Hollywood Palladium,Location : Hollywood, United States,Date : 06-14-2019Name : Redemption Church - Bay Area,Location : San Jose, United States,Date : 06-15-2019Name : Viking Pavilion at the Peter W. Stott Center,Location : Portland, United States,Date : 06-16-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 06-18-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 06-19-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 07-02-2019Name : Alive Festival,Location : Mineral City, United States,Date : 07-21-2019Name : Rock the Desert Festival,Location : Midland, United States,Date : 08-02-2019Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : All That She Wants
+
+URL : https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Don't Turn Around
+
+URL : https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+
+Album : Greatest HitsArtist : Ace of Base
+
+Track : Happy Nation
+
+URL : https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Wheel of Fortune
+
+URL : https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Dancer in a Daydream
+
+URL : https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Living in Danger
+
+URL : https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Young and Proud
+
+URL : https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Waiting for Magic - Total Remix 7" Version
+
+URL : https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+
+Album : Happy Nation (U.S. Version) [Remastered]Artist : Ace of Base
+
+Track : Voulez-Vous danser
+
+URL : https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : My Mind - Mindless Mix
+
+URL : https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : All That She Wants - Banghra Version
+
+URL : https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : Mr Ace - Demo 1991 Bonus Track
+
+URL : https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+
+Album : The Sign (US Album) [Remastered]Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - Long Version
+
+URL : https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - Ultimix
+
+URL : https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign
+
+URL : https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+
+Album : The Sign (The Remixes)Artist : Ace of Base
+
+Track : The Sign - The Remix
+
+URL : https://open.spotify.com/track/1FqcC4PddhouGXkd7wc40l
+
+Album : Classic RemixesArtist : Andy Mineo
+
+Track : Desperados
+
+URL : https://open.spotify.com/track/47A458Oaet2rvNaBdyNSrc
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uncomfortable
+
+URL : https://open.spotify.com/track/0YbugouxtGMFaVQlHaagPk
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Rat Race
+
+URL : https://open.spotify.com/track/75ozjNXcc0l7Jumtk5dLkK
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Now I Know
+
+URL : https://open.spotify.com/track/3brWQ0mnNyk09f11oMAauM
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Know That's Right
+
+URL : https://open.spotify.com/track/5DPZZSDnqfYGew2VeMq2Hx
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uptown
+
+URL : https://open.spotify.com/track/2jZeqGAbOylGg6sA3fAoz5
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Hear My Heart
+
+URL : https://open.spotify.com/track/4svXHoaxoJjeYYntdzlBfV
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Strange Motions
+
+URL : https://open.spotify.com/track/6VhrMHk5s7tAGkww1qMVmw
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Make Me A Believer
+
+URL : https://open.spotify.com/track/3XtcQ6FS6DY1svP0tkZ19d
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Vendetta
+
+URL : https://open.spotify.com/track/04HLonu6cn75k6CuIdQCuQ
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Love
+
+URL : https://open.spotify.com/track/4bY5VIO6lNYbPCTVAtUakT
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uncomfortable
+
+URL : https://open.spotify.com/track/1pTOh9dMtpyHRfflLnbBeu
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Ghost
+
+URL : https://open.spotify.com/track/63MC2zuVjyU53z64EzfFHA
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Desperados
+
+URL : https://open.spotify.com/track/5toyb695gayulvQjh2fiBa
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : David's Roof
+
+URL : https://open.spotify.com/track/1MM2s3ZOEK8P8s45fUc1bs
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uptown
+
+URL : https://open.spotify.com/track/37oSYQyErcPJqxIw0H9j5l
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Now I Know
+
+URL : https://open.spotify.com/track/1ihPAlPG2zVqB8BiMEH2xi
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Know That's Right
+
+URL : https://open.spotify.com/track/6qHwYaIIbLDWatuOPMVgKf
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Hear My Heart
+
+URL : https://open.spotify.com/track/0F9T2ytpKqfmnnw67yfO4T
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Rat Race
+
+URL : https://open.spotify.com/track/6gnWKT9cwDAnJdh2RVx1y5
+
+Album : UncomfortableArtist : Backstreet Boys
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+
+Album : The Hits--Chapter OneArtist : Anthem Lights
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+
+Album : Covers Part IVArtist : Jess and Gabriel
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/52FgeDoHydoWZbFGgxwCdH
+
+Album : Under the Covers, Vol. 3Artist : Mick Jensen
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd
+
+Album : I Want It That WayArtist : Tyler and Mark
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
+
+Album : Beautiful DreamsArtist : Backstreet Boys
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+
+Album : MillenniumArtist : "Weird Al" Yankovic
+
+Track : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+
+URL : https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+
+Album : Poodle HatArtist : Backstreet Boys
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+
+Album : 90 Sweet 90s Hits!Artist : Backstreet Boys
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+
+Album : NKOTBSBArtist : Steel Panther
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+
+Album : I Want It That WayArtist : Glee Cast
+
+Track : Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+URL : https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+
+Album : Bye Bye Bye / I Want It That Way (Glee Cast Version)Artist : Manuel Costa
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+
+Album : I Want It That WayArtist : Boyce Avenue
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+
+Album : Cover Sessions, Vol. 2Artist : Scary Pockets
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+
+Album : Nu FunkArtist : Scott Bradlee's Postmodern Jukebox
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+
+Album : Selfies on KodachromeArtist : Yshop
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5
+
+Album : I Want It That WayArtist : "Weird Al" Yankovic
+
+Track : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+
+URL : https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+
+Album : The Essential "Weird Al" YankovicArtist : Kidz Bop Kids
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/1n1JZwSscsN0ESVPNv94cx
+
+Album : Kidz BopArtist : Backstreet Boys
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+
+Album : NOW That's What I Call 90s PopArtist : #90s Update
+
+Track : I Want It That Way
+
+URL : https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+
+Album : #90s UpdateArtist : Andy Mineo
+
+Track : Uptown
+
+URL : https://open.spotify.com/track/2jZeqGAbOylGg6sA3fAoz5
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uptown
+
+URL : https://open.spotify.com/track/37oSYQyErcPJqxIw0H9j5l
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uptown (Commentary)
+
+URL : https://open.spotify.com/track/3AwSbFX3uGwUBi2z9jAXCr
+
+Album : Uncomfortable (Commentary)Artist : Andy Mineo
+
+Track : Uptown (Commentary)
+
+URL : https://open.spotify.com/track/4k0l0dj1bMtJrCmBMCTtSO
+
+Album : Uncomfortable (Commentary)Artist : Andy Mineo
+
+Track : Uptown
+
+URL : https://open.spotify.com/track/2jZeqGAbOylGg6sA3fAoz5
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uptown (Commentary)
+
+URL : https://open.spotify.com/track/4k0l0dj1bMtJrCmBMCTtSO
+
+Album : Uncomfortable (Commentary)Artist : Andy Mineo
+
+Track : Uptown (Commentary)
+
+URL : https://open.spotify.com/track/3AwSbFX3uGwUBi2z9jAXCr
+
+Album : Uncomfortable (Commentary)Artist : Andy Mineo
+
+Track : Uptown
+
+URL : https://open.spotify.com/track/37oSYQyErcPJqxIw0H9j5l
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uptown
+
+URL : https://open.spotify.com/track/2jZeqGAbOylGg6sA3fAoz5
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uptown
+
+URL : https://open.spotify.com/track/37oSYQyErcPJqxIw0H9j5l
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uptown (Commentary)
+
+URL : https://open.spotify.com/track/3AwSbFX3uGwUBi2z9jAXCr
+
+Album : Uncomfortable (Commentary)Artist : Andy Mineo
+
+Track : Uptown (Commentary)
+
+URL : https://open.spotify.com/track/4k0l0dj1bMtJrCmBMCTtSO
+
+Album : Uncomfortable (Commentary)Artist : Andy Mineo
+
+Track : Uptown
+
+URL : https://open.spotify.com/track/2jZeqGAbOylGg6sA3fAoz5
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uptown
+
+URL : https://open.spotify.com/track/37oSYQyErcPJqxIw0H9j5l
+
+Album : UncomfortableArtist : Andy Mineo
+
+Track : Uptown (Commentary)
+
+URL : https://open.spotify.com/track/4k0l0dj1bMtJrCmBMCTtSO
+
+Album : Uncomfortable (Commentary)Artist : Andy Mineo
+
+Track : Uptown (Commentary)
+
+URL : https://open.spotify.com/track/3AwSbFX3uGwUBi2z9jAXCr
+
+Album : Uncomfortable (Commentary)Name : Church For The Nations,Location : Phoenix, United States,Date : 06-13-2019Name : Hollywood Palladium,Location : Hollywood, United States,Date : 06-14-2019Name : Redemption Church - Bay Area,Location : San Jose, United States,Date : 06-15-2019Name : Viking Pavilion at the Peter W. Stott Center,Location : Portland, United States,Date : 06-16-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 06-18-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 06-19-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 07-02-2019Name : Alive Festival,Location : Mineral City, United States,Date : 07-21-2019Name : Rock the Desert Festival,Location : Midland, United States,Date : 08-02-2019Name : Church For The Nations,Location : Phoenix, United States,Date : 06-13-2019Name : Hollywood Palladium,Location : Hollywood, United States,Date : 06-14-2019Name : Redemption Church - Bay Area,Location : San Jose, United States,Date : 06-15-2019Name : Viking Pavilion at the Peter W. Stott Center,Location : Portland, United States,Date : 06-16-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 06-18-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 06-19-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 07-02-2019Name : Alive Festival,Location : Mineral City, United States,Date : 07-21-2019Name : Rock the Desert Festival,Location : Midland, United States,Date : 08-02-2019Name : Church For The Nations,Location : Phoenix, United States,Date : 06-13-2019Name : Hollywood Palladium,Location : Hollywood, United States,Date : 06-14-2019Name : Redemption Church - Bay Area,Location : San Jose, United States,Date : 06-15-2019Name : Viking Pavilion at the Peter W. Stott Center,Location : Portland, United States,Date : 06-16-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 06-18-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 06-19-2019Name : Camp Zephyr,Location : Sandia, United States,Date : 07-02-2019Name : Alive Festival,Location : Mineral City, United States,Date : 07-21-2019Name : Rock the Desert Festival,Location : Midland, United States,Date : 08-02-2019
